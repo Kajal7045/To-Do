@@ -1,2 +1,3 @@
 # To-Do
-This is my To-Do application
+This is my To-Do application.
+Author- Kajal Dhumal
