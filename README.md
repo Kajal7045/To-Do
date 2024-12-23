@@ -1,4 +1,4 @@
 # To-Do
 This is my To-Do application.
 <br>
-Author- Kajal Tanaji Dhumal 
+Author- Kajal Dhumal 
